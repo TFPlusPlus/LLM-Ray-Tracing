@@ -1,0 +1,14 @@
+Sphere: Correct Results = 10, Incorrect Results = 0, Error = 0.
+Cube: Correct Results = 10, Incorrect Results = 0, Error = 0.
+Square: Correct Results = 10, Incorrect Results = 0, Error = 0.
+Cylinder: Correct Results = 10, Incorrect Results = 0, Error = 0.
+Two Spheres: Correct Results = 10, Incorrect Results = 0, Error = 0.
+Disc: Correct Results = 10, Incorrect Results = 0, Error = 0.
+Quad with Circle Hole: Correct Results = 10, Incorrect Results = 0, Error = 0.
+Plane with Triangle Hole: Correct Results = 9, Incorrect Results = 1, Error = 0.
+Ellipsoid: Correct Results = 10, Incorrect Results = 0, Error = 0.
+Cut Sphere: Correct Results = 10, Incorrect Results = 0, Error = 0.
+Sphere with Sphere Hole: Correct Results = 9, Incorrect Results = 1, Error = 0.
+Sphere with Cylinder Hole: Correct Results = 9, Incorrect Results = 1, Error = 0.
+error: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+correct: [10, 10, 10, 10, 10, 10, 10, 9, 10, 10, 9, 9]
